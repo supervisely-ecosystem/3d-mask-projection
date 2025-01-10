@@ -1,1 +1,1 @@
-# 3d-mask-projection
+# 3D segmentation masks projection on 2D photo context image
